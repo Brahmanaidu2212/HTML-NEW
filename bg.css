@@ -1,0 +1,16 @@
+body
+{ text-align: center;
+    color: red;
+    background-image: linear-gradient(blue,black);
+    background-image: url(./images/power\ star.gif),url(./images/BRAHMA.png),url(./images/p2.gif),url(./images/power\ star.gif),url(./images/BRAHMA.png),url(./images/p2.gif);
+    background-repeat:no-repeat;
+    background-size:200px 600px;
+ background-position: 0px 0px, 200px 0px, 400px 0px, 600px 0px, 800px 0px,1000px 0px;
+ background-attachment: fixed;
+}
+
+h2
+{
+    padding: 100% 0% 100% 0%;
+    margin: 0% 20% 0% 20%;
+}

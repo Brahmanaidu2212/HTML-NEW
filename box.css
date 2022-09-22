@@ -1,0 +1,11 @@
+h1
+{
+    color: blue;
+    background-color: chocolate;
+    /* border: width style color; */
+    border: 20px solid green;
+    /* padding top,right,bottom,right */
+    padding: 0% 30% 0% 35%;
+    /* margin top,right,bottom ,lift*/
+    
+}
